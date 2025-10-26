@@ -1,4 +1,4 @@
-import os
+import os, re
 
 # Function to read a file, but uses an insecure input method
 def read_user_file_insecure(filename):
