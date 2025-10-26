@@ -55,4 +55,4 @@ if __name__ == "__main__":
     # An *exploit attempt* could be: "__import__('os').getcwd()"
     calculate_expression_insecure(input("Enter a math expression to evaluate (e.g., 5*5): "))
 
-    print("\n--- Demonstration Complete ---")
+    print("\n--- Demonstration Complete. ---")
